@@ -1,16 +1,22 @@
-.algo_comeco{
+.titulo{
 font-size: large;
 text-align: center;
 display:flex;
 justify-content: center;
 font-weight: bold;
-color: aquamarine;
+color: rgb(144, 162, 243);
+background-color: black;
 }
 
-.bagulho{
+.texto{
 font-size: medium;
 text-align: left;
 display: flex;
 justify-content: center;
+color:rgb(144, 162, 243);
+background-color: black;
+}
 
+.pngbonito{
+    width: 500%;
 }
